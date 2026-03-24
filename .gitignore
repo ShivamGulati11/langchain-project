@@ -32,6 +32,8 @@ ENV/
 .coverage
 htmlcov/
 .tox/
+test.db
+*.db
 
 # Logs
 *.log
